@@ -159,8 +159,8 @@ This project is for educational purposes.
 
 ## 👤 Authors
 
-[Your Name]
-[Your Student ID]
+MOLATHATI MADHU SUDHAN RAO
+EC2432251010008
 
 ## 🙏 Acknowledgments
 
